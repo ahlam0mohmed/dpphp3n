@@ -1,0 +1,15 @@
+{
+    "name": "superlap/oop-blog",
+    "autoload": {
+        "psr-4": {
+            "Superlap\\OopBlog\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "samia saeed",
+            "email": "samsaeed738@gmail.com"
+        }
+    ],
+    "require": {}
+}
